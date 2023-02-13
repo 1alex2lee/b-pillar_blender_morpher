@@ -1,0 +1,1 @@
+"C:\Program Files\Blender Foundation\Blender 3.4\blender.exe" -b lateral_morph.blend -P lateral_morph.py
